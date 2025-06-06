@@ -22,4 +22,3 @@
 ## Notas
 Una hoja de albahaca fresca le da un toque especial a la salsa.
 
-Agrego receta de fideos con salsa
