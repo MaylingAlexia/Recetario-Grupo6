@@ -2,14 +2,14 @@
 
 ## Ingredientes:
 
-3 huevos
-1 taza de azúcar
-½ taza de mantequilla (a temperatura ambiente)
-1 taza de leche
-2 tazas de harina de trigo (todo uso)
-2 cucharaditas de polvo de hornear
-1 cucharadita de esencia de vainilla
-Una pizca de sal
+- 3 huevos
+- 1 taza de azúcar
+- ½ taza de mantequilla (a temperatura ambiente)
+- 1 taza de leche
+- 2 tazas de harina de trigo (todo uso)
+- 2 cucharaditas de polvo de hornear
+- 1 cucharadita de esencia de vainilla
+- Una pizca de sal
 
 ## Preparación:
 
