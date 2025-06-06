@@ -21,12 +21,3 @@ Una receta rápida y fácil para un desayuno delicioso.
 4. Calienta una sartén a fuego medio y unta un poco de mantequilla o aceite.
 5. Vierte un poco de la mezcla en la sartén y cocina hasta que salgan burbujas. Luego da vuelta y cocina el otro lado.
 6. Sirve caliente con miel, frutas o lo que prefieras.
-
-## 🍯 Sugerencia
-
-¡Acompáñalos con un poco de miel de maple y frutas frescas para un desayuno completo!
-
----
-
-¡Listo! Puedes copiar esto y guardarlo como `panqueques.md` en tu repositorio.
-¿Quieres otra receta o adaptarla a otro estilo?
