@@ -17,7 +17,7 @@ Una receta rápida y fácil para un desayuno delicioso.
 
 1. En un bowl, mezcla los ingredientes secos: harina, azúcar, polvo de hornear y sal.
 2. En otro recipiente, bate el huevo con la leche, la mantequilla derretida y la vainilla.
-3. Agrega los ingredientes líquidos a los secos y mezcla hasta que no haya grumos (no mezcles en exceso).
+3. Agrega los ingredientes líquidos a los secos y mezcla hasta que no haya grumos (no mezclar en exceso).
 4. Calienta una sartén a fuego medio y unta un poco de mantequilla o aceite.
 5. Vierte un poco de la mezcla en la sartén y cocina hasta que salgan burbujas. Luego da vuelta y cocina el otro lado.
 6. Sirve caliente con miel, frutas o lo que prefieras.
