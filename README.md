@@ -1,2 +1,2 @@
-# Recetario-PetSociety
+# Recetario-Grupo6
 Tarea de clase
